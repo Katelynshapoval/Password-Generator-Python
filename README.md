@@ -6,7 +6,7 @@ This repository contains a secure password generator implemented in Python. The 
 
 - [Introduction](#introduction)
 - [Features](#features)
-- - [Customizable Password Length](#customizable-password-length)
+  - [Customizable Password Length](#customizable-password-length)
   - [Include Numbers and Special Characters](#include-numbers-and-special-characters)
 
 ## Introduction
